@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gazzana
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me: lucasgazzana@gmail.com
 
